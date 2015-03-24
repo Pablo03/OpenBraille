@@ -1,25 +1,24 @@
 """
- * tooltest.py -- Función de testeo de la impreso braille casera.
- * Copyright (C) 2014  Pablo Luis Araujo
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with GNU gv; see the file COPYING.  If not, write to
- * the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
- * Boston, MA 02111-1307, USA.
- *
- *   Author: Pablo Luis Araujo          Analista Programador Universitario
- *   Email: araujopablo1994@gmail.com
- *   Licencia: https://github.com/Pablo03/OpenBraille/blob/master/LICENSE
+	tooltest.py -- Función de testeo de la impreso braille casera.
+	Copyright (C) 2014  Pablo Luis Araujo
+ 
+	This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with GNU gv; see the file COPYING.  If not, write to
+	the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+	Boston, MA 02111-1307, USA.
+
+	Author: Pablo Luis Araujo          Analista Programador Universitario
+	Email: araujopablo1994@gmail.com
 """
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
